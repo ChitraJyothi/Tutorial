@@ -1,0 +1,117 @@
+2016-02-19 11:48:25.0641|INFO|thread: 1|SoftwareUpdateViewModel|Checking for new version
+2016-02-19 11:46:03.1680|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2016-02-19 11:46:03.1840|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2016-02-19 11:46:03.1910|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| #########################################
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.0.12.0
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| Build version: c42ff11fcb28172b46055153a72a72e41f2259c6
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***************************************
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| ***************************************
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| OS Version: Windows NT 6.3.9600.0 amd64
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.34014
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| Current culture: en-IN
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\veeresha\AppData\Local\Apps\2.0\NDBMCEV4.R9T\L8MZ6P85.OLC\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2016-02-19 11:46:03.1910|INFO|thread: 4|StartupLogging| Location: C:\Users\veeresha\AppData\Local\Apps\2.0\NDBMCEV4.R9T\L8MZ6P85.OLC\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894\GitHub.exe
+2016-02-19 11:46:03.2130|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-02-19 11:46:03.2130|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\veeresha\AppData\Local\Apps\2.0\NDBMCEV4.R9T\L8MZ6P85.OLC\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894\GitHub.exe
+2016-02-19 11:46:03.2350|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-02-19 11:46:03.2360|INFO|thread: 4|GitEnvironment|PATH is C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\veeresha\AppData\Local\Apps\2.0\NDBMCEV4.R9T\L8MZ6P85.OLC\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894;C:\Users\veeresha\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging| =====================================================
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging| =====================================================
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c'
+2016-02-19 11:46:03.2360|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2016-02-19 11:46:03.2360|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe'
+2016-02-19 11:46:03.2360|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Program Files (x86)\AMD APP\bin\x86'
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2016-02-19 11:46:03.2360|INFO|thread: 4|StartupLogging| PATH: C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\
+2016-02-19 11:46:03.2641|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2016-02-19 11:46:03.2641|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2016-02-19 11:46:03.2821|INFO|thread: 1|App|Checking whether application is network deployed: True
+2016-02-19 11:46:03.2821|INFO|thread: 1|App|Shortcut C:\Users\veeresha\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2016-02-19 11:46:03.3411|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\veeresha\AppData\Local\Apps\2.0\NDBMCEV4.R9T\L8MZ6P85.OLC\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894\Images\App.ico'
+2016-02-19 11:46:03.8775|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2016-02-19 11:46:03.9635|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2016-02-19 11:46:03.9635|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 173 entries
+2016-02-19 11:46:04.0146|INFO|thread: 4|StartupSequence|Took 649ms to Update certificate bundle from system store
+2016-02-19 11:46:04.7611|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2016-02-19 11:46:04.7611|INFO|thread: 1|GitClient|Installing git lfs filters
+2016-02-19 11:46:04.7821|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-02-19 11:46:04.7821|INFO|thread: 1|GitEnvironment|PATH is C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\veeresha\AppData\Local\Apps\2.0\NDBMCEV4.R9T\L8MZ6P85.OLC\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894;C:\Users\veeresha\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319;C:\WINDOWS\System32
+2016-02-19 11:46:04.7961|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\veeresha\AppData\Local\Temp\
+2016-02-19 11:46:04.9552|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2016-02-19 11:46:04.9552|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2016-02-19 11:46:05.9058|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2016-02-19 11:46:06.5883|WARN|thread: 1|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:github.com' was not present in the cache.
+2016-02-19 11:46:06.5883|WARN|thread: 5|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2016-02-19 11:46:06.6513|INFO|thread:14|DashboardViewModel|Selected repository '/Tutorial'
+2016-02-19 11:46:06.6783|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:628
+2016-02-19 11:46:06.6783|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:628 after waiting 0.0022283s
+2016-02-19 11:46:06.6783|INFO|thread:14|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:606
+2016-02-19 11:46:06.7154|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:628 after blocking 0.0346328s
+2016-02-19 11:46:06.7154|INFO|thread:16|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:606 after waiting 0.0323382s
+2016-02-19 11:46:07.4458|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:623
+2016-02-19 11:46:07.6290|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at GitClient.cs:224
+2016-02-19 11:46:07.6290|INFO|thread:16|DashboardViewModel|Took 963ms to Create RepositoryViewModel for location C:\Users\veeresha\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-02-19 11:46:07.6290|INFO|thread:16|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:606 after blocking 0.9164143s
+2016-02-19 11:46:07.6290|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:623 after waiting 0.1881465s
+2016-02-19 11:46:07.6580|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at GitClient.cs:224 after waiting 0.0288822s
+2016-02-19 11:46:07.6580|INFO|thread: 5|GitClient|Loading commits for repo: C:\Users\veeresha\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-02-19 11:46:07.6840|INFO|thread: 5|ConcurrentRepositoryConnection|No references found for repo: C:\Users\veeresha\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\
+2016-02-19 11:46:07.6840|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at GitClient.cs:224 after blocking 0.0298032s
+2016-02-19 11:46:07.6980|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at RepositoryViewModel.cs:336
+2016-02-19 11:46:07.6980|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at RepositoryViewModel.cs:336 after waiting 0.0023013s
+2016-02-19 11:46:07.6980|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:623 after blocking 0.0664472s
+2016-02-19 11:46:07.7841|WARN|thread:16|GetBranch`1|Could not resolve branch /master
+2016-02-19 11:46:07.8061|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at RepositoryViewModel.cs:336 after blocking 0.1057084s
+2016-02-19 11:46:07.9362|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at GitClient.cs:201
+2016-02-19 11:46:07.9362|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at GitClient.cs:201 after waiting 8.52E-05s
+2016-02-19 11:46:07.9362|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryModel.cs:596
+2016-02-19 11:46:07.9362|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after waiting 0.0004231s
+2016-02-19 11:46:07.9452|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryModel.cs:596
+2016-02-19 11:46:07.9672|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after waiting 0.0219692s
+2016-02-19 11:46:07.9852|INFO|thread:13|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at GitClient.cs:201 after blocking 0.0492792s
+2016-02-19 11:46:07.9962|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at GitClient.cs:290
+2016-02-19 11:46:07.9962|INFO|thread:13|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at GitClient.cs:290 after waiting 0.0003351s
+2016-02-19 11:46:08.0102|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-02-19 11:46:08.0102|INFO|thread: 5|GitEnvironment|PATH is C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\veeresha\AppData\Local\Apps\2.0\NDBMCEV4.R9T\L8MZ6P85.OLC\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894;C:\Users\veeresha\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319;C:\WINDOWS\System32
+2016-02-19 11:46:08.0102|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\veeresha\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\veeresha\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\
+2016-02-19 11:46:08.0102|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after blocking 0.0444614s
+2016-02-19 11:46:08.0192|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after blocking 0.0807257s
+2016-02-19 11:46:08.6787|INFO|thread: 5|ConcurrentRepositoryConnection|Took 647ms to git status
+2016-02-19 11:46:08.6787|INFO|thread: 5|ConcurrentRepositoryConnection|Took 648ms to git status and parse output
+2016-02-19 11:46:08.7507|INFO|thread: 5|NewCommitViewModel|Took 755ms to load files for C:\Users\veeresha\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-02-19 11:46:08.7517|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at GitClient.cs:290 after blocking 0.7544868s
+2016-02-19 11:46:09.3211|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:611
+2016-02-19 11:46:09.3211|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:611 after waiting 3.03E-05s
+2016-02-19 11:46:09.3211|INFO|thread:13|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:611 after blocking 0.0057071s
+2016-02-19 11:46:10.0206|INFO|thread: 1|NewCommitViewModel|Took 1269ms to render file list for C:\Users\veeresha\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-02-19 11:46:10.0206|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at RepositoryViewModel.cs:336
+2016-02-19 11:46:10.0206|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at RepositoryViewModel.cs:336 after waiting 3.59E-05s
+2016-02-19 11:46:10.0206|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at RepositoryViewModel.cs:336 after blocking 7.38E-05s
+2016-02-19 11:46:10.0206|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at RepositoryViewModel.cs:336
+2016-02-19 11:46:10.0336|WARN|thread: 5|GetBranch`1|Could not resolve branch /master
+2016-02-19 11:46:10.0336|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at RepositoryViewModel.cs:336 after waiting 0.0089009s
+2016-02-19 11:46:10.0576|WARN|thread:16|GetBranch`1|Could not resolve branch /master
+2016-02-19 11:46:10.0576|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at RepositoryViewModel.cs:336 after blocking 0.0291893s
+2016-02-19 11:46:10.1356|INFO|thread:13|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at GitClient.cs:497
+2016-02-19 11:46:10.1356|INFO|thread:13|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at GitClient.cs:497 after waiting 0.0006903s
+2016-02-19 11:46:10.1667|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at GitClient.cs:497
+2016-02-19 11:46:10.1667|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at GitClient.cs:497 after waiting 5.56E-05s
+2016-02-19 11:46:10.6760|INFO|thread:13|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at GitClient.cs:497 after blocking 0.5390602s
+2016-02-19 11:46:10.6910|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at GitClient.cs:497 after blocking 0.5249108s
+2016-02-19 11:46:13.4117|INFO|thread: 5|SoftwareUpdateViewModel|Checking for new version
+2016-02-19 11:48:25.0571|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
